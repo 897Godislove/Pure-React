@@ -1,0 +1,14 @@
+.aboutImage{
+  height: 50vh;
+}
+.aboutText{
+  padding: 25px;
+  font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif 'Gill Sans MT' sans-serif;
+}
+.aboutText h1{
+  text-align: center;
+  font-size: 55px;
+}
+.aboutText p{
+  padding: 0 45px;
+}
