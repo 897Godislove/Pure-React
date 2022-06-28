@@ -68,7 +68,7 @@
   .navbar .rightSide{
     justify-content: flex-end;
     padding: 10px;
-    width: 20%;
+    width: 10%;
   }
   .navbar .rightSide .button{
     display: inherit;
@@ -81,7 +81,7 @@
     display: none;
   }
   .navbar .rightSide svg{
-  font-size: 40px;
+  font-size: 35px;
   } 
 }
 
