@@ -77,8 +77,11 @@
     padding-left: 7px;
     width: 50%;
   }
+  .navbar .leftSide img{
+    display: none;
+  }
   .navbar .rightSide svg{
-  font-size: 20px;
+  font-size: 40px;
   } 
 }
 
