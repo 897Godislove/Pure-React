@@ -38,6 +38,9 @@
   }
 }
 @media only screen and (max-width: 600px) {
+  .items{
+    padding-top: 100px;
+  } 
   .container{
     height: 70vh;
   }
