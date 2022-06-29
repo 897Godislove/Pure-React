@@ -4,7 +4,7 @@ import '../css/About.css'
 
 function About() {
   return (
-    <>
+    <div className="wrap">
       <div className="aboutImage" style={{ backgroundImage: `url(${AboutImage})` }}></div>
       <div className="aboutText">
         <h1>About Us</h1>
@@ -16,7 +16,7 @@ function About() {
           Magna quis cupidatat est deserunt anim veniam non. Excepteur ad dolor mollit et aliquip. Ad irure ad nulla et est minim nisi reprehenderit culpa irure amet consequat aute. Ullamco ad exercitation commodo est veniam in nisi ex officia deserunt aute laboris ad. Labore cupidatat esse deserunt deserunt veniam id in sit nisi et. Sit incididunt ullamco ea consectetur laborum exercitation culpa. Labore do veniam voluptate sint non dolore irure adipisicing.
         </p>
       </div>
-    </>
+    </div>
   )
 }
 
