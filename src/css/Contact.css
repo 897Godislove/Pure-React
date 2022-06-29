@@ -2,8 +2,12 @@
   display: flex;
   flex-direction: row;
   width: 100%;
+<<<<<<< HEAD
   min-height: 65%;
   box-sizing: border-box;
+=======
+  min-height: 64%;
+>>>>>>> 6ac71b527d985eb7ecaac57a1c4a5c69ddbf9da8
 }
 .leftSide{
   width: 50%;

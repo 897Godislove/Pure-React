@@ -26,9 +26,16 @@
 }
 
 @media only screen and (max-width: 600px){
+<<<<<<< HEAD
   /* .footer{
     height: 15vh;
   } */
+=======
+  .footer{
+    height: 20vh;
+    padding: 10px;
+  }
+>>>>>>> 6ac71b527d985eb7ecaac57a1c4a5c69ddbf9da8
   .icons{
     padding-top: 8px;
   }
