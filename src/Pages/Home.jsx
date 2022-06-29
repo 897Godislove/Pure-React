@@ -23,8 +23,7 @@ function Home() {
             order now
             </Button>
         </div>
-      </div>
-      
+      </div>      
     </div>
   )
 }

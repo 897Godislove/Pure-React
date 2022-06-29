@@ -1,8 +1,9 @@
 .wrap{
   display: flex;
   flex-direction: row;
-  width: auto;
-  height: 80vh;
+  width: 100%;
+  min-height: 65%;
+  box-sizing: border-box;
 }
 .leftSide{
   width: 50%;
@@ -16,6 +17,7 @@
 }
 .rightSide{
   width: 50%;
+
   /* margin: 30px; */
 }
 #tellUs{
@@ -24,6 +26,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  box-sizing: border-box;
   /* padding: 30px; */
 }
 h1{
@@ -56,10 +59,13 @@ button{
 @media screen and (max-width: 800px) {
   .wrap{
     flex-direction: column;
-    height: 100%;
+  }
+  #tellUs{
+    /* height: 100px; */
+    padding-bottom: 100px;
   }
   .leftSide{
-    padding: 0 0 0 50px;
+    /* padding: 0 0 0 50px; */
   }
   .rightSide{
     padding-left: 50px;    

@@ -19,6 +19,8 @@
   height: 300px;
   width: 20%;
   margin: 15px 20px;
+  display: flex;
+  flex-direction: column;
 }
 .wrap img{
   height: 65%;
